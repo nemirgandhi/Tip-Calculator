@@ -2,7 +2,7 @@
 
 **Tip Calc** is a tip calculator application for iOS.
 
-Submitted by: **Nemir**
+Submitted by: **Nemir Gandhi**
 
 Time spent: **2** hours spent in total
 
